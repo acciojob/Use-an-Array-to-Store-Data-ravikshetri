@@ -1,2 +1,2 @@
 
-var yourArray = ['aman' 58 , true , 'kuch' null]
+var yourArray = ['nothing', 'aidi', 'hid', 'jjd' , 'jhdhdh']
