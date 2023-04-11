@@ -1,2 +1,2 @@
 
-var yourArray = ['any', 10, false, null, 38 ]
+var yourArray = ['ab', 10 , true,'abc', 30, 'str' ]
