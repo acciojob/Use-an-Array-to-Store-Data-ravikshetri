@@ -1,1 +1,1 @@
-let yourArray = [10, 'str', null , false, 10]
+let yourArray = [10, "str", null , false, 10]
